@@ -13,3 +13,8 @@ if ($status -eq "Struggled") {
 $line = "| $today | $problem | $pattern | $difficulty | $status | $revisit |"
 Add-Content -Path progress.md -Value $line
 Write-Host "Logged: $problem (revisit: $revisit)"
+
+git add progress.md
+git commit -m "Log: $problem"
+git push
+Write-Host "Pushed to GitHub."
