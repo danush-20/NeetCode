@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/danush-20/NeetCode/tree/master/3701-compute-alternating-sum) |
+## Math
+|  |
+| ------- |
+| [2544-alternating-digit-sum](https://github.com/danush-20/NeetCode/tree/master/2544-alternating-digit-sum) |
 <!---LeetCode Topics End-->
