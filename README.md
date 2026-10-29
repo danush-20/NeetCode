@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/danush-20/NeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/danush-20/NeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/danush-20/NeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3701-compute-alternating-sum](https://github.com/danush-20/NeetCode/tree/master/3701-compute-alternating-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/danush-20/NeetCode/tree/master/0904-fruit-into-baskets) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/danush-20/NeetCode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
