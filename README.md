@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/danush-20/NeetCode/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/danush-20/NeetCode/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2544-alternating-digit-sum](https://github.com/danush-20/NeetCode/tree/master/2544-alternating-digit-sum) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/danush-20/NeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/danush-20/NeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
